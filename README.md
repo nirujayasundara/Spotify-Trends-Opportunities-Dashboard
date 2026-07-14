@@ -10,20 +10,20 @@ An interactive Tableau dashboard analyzing 230,000+ Spotify tracks across 26 gen
 
 ---
 
-  Overview
+ ## Overview
 
 This project explores the [Spotify Tracks Dataset](#) (232,725 tracks, 18 audio/metadata features per track) to answer a core question: **what audio and structural characteristics are associated with higher track popularity, and how does this vary by genre?**
 
 The dashboard combines genre-level comparisons, feature correlation analysis, and artist-level rankings into a single interactive view.
 
-  Tools & Skills
+ ## Tools & Skills
 
 - **Tableau Public Desktop** — dashboard design, calculated fields, dual-axis charts, Top N filtering, context filters, heatmaps
 - **Data cleaning** — resolving encoding inconsistencies (duplicate genre labels), correcting Excel auto-formatting corruption in categorical fields, handling nulls
 - **Exploratory data analysis** — correlation analysis, genre segmentation, outlier identification
 - **Data storytelling** — translating statistical findings into a clear, non-technical dashboard narrative
 
- Key Insights
+## Key Insights
 
 - **Loudness (+0.36) and acousticness (−0.38)** are the two strongest correlates with popularity — louder, less acoustic tracks trend more popular across the dataset.
 - **Danceability and energy** show a moderate positive relationship with popularity, but genre membership itself is a stronger predictor than any single audio feature — tracks cluster into distinct popularity "bands" primarily by genre.
@@ -32,7 +32,7 @@ The dashboard combines genre-level comparisons, feature correlation analysis, an
 - **Genres have distinct "audio fingerprints"** — e.g. Classical and Soundtrack score high on acousticness/instrumentalness and low on danceability/energy, while Rap/Hip-Hop score high on speechiness.
 - **Popularity and catalogue volume are not correlated at the artist level** — some of the most prolific artists in the dataset (by track count) have low average popularity, while smaller, high-impact artists (e.g. Billie Eilish, Post Malone) lead on average popularity.
 
- Dashboard Contents
+## Dashboard Contents
 
 | Sheet | What it shows |
 |---|---|
