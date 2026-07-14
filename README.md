@@ -23,10 +23,17 @@ Danceability and energy show a moderate positive relationship with popularity, b
 Track duration has a sweet spot: popularity peaks for tracks 3–5 minutes long, dropping off for very short (<2 min) or long (6+ min) tracks.
 4/4 time signature dominates the catalogue and outperforms less common time signatures on average popularity.
 
-Dashboard Contents
-
-SheetWhat it showsGenre vs. Average PopularityWhich genres perform best/worstLoudness vs. Popularity by GenreFeature-level correlation with popularity, colored by genreGenre Audio Fingerprint HeatmapComparative audio profile across six key featuresPopularity by Track DurationThe duration "sweet spot" for popularityPopularity by Key and ModeMinor vs. major key performanceTime Signature: Popularity vs. Track CountCatalogue composition and its relationship to popularityTop Artists by Average PopularityHighest-performing artists (min. 20 tracks)
 
 
 Genres have distinct "audio fingerprints" — e.g. Classical and Soundtrack score high on acousticness/instrumentalness and low on danceability/energy, while Rap/Hip-Hop score high on speechiness.
 Popularity and catalogue volume are not correlated at the artist level — some of the most prolific artists in the dataset (by track count) have low average popularity, while smaller, high-impact artists (e.g. Billie Eilish, Post Malone) lead on average popularity.
+Dashboard Contents
+
+SheetWhat it showsGenre vs. Average PopularityWhich genres perform best/worstLoudness vs. Popularity by GenreFeature-level correlation with popularity, colored by genreGenre Audio Fingerprint HeatmapComparative audio profile across six key featuresPopularity by Track DurationThe duration "sweet spot" for popularityPopularity by Key and ModeMinor vs. major key performanceTime Signature: Popularity vs. Track CountCatalogue composition and its relationship to popularityTop Artists by Average PopularityHighest-performing artists (min. 20 tracks)
+
+How to View
+
+
+Download Spotify_Trends_Opportunities.twbx
+Open with Tableau Public Desktop (free)
+Or view the interactive version directly via the published link above
