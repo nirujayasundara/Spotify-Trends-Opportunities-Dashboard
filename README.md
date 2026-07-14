@@ -44,14 +44,6 @@ The dashboard combines genre-level comparisons, feature correlation analysis, an
 | Time Signature: Popularity vs. Track Count | Catalogue composition and its relationship to popularity |
 | Top Artists by Average Popularity | Highest-performing artists (min. 20 tracks) |
 
-##  Repository Contents
-
-```
-├── SpotifyFeatures.csv          # source dataset
-├── Spotify_Trends_Opportunities.twbx   # Tableau packaged workbook
-├── Spotify_Trends_Opportunities_Analysis.md   # full written analysis
-└── README.md
-```
 
 ##  How to View
 
